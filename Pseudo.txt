@@ -1,0 +1,31 @@
+request user to enter a positive number repeatedly
+if the input equals "a zero value"
+	print "the largest of the numbers entered"
+	
+
+request user's name
+store input into variable called "first_name"
+if the input is equal to the value stored in the variable "first_name" 
+		print "Hello, World"
+		
+
+request an integer from the user
+	add all the integers together
+	determine the number of integers
+calculate average by dividing the sum of all integers by the total number of integers
+	print the arithmetic average
+	
+	
+request a grocery list
+if a product on the grocery list has been bought "cross it out"
+if a product on the grocery list has not been bought "highlight it"
+print the list of highlighted products in alphabetical order
+
+
+read input X and Y
+if the input equals "X+Y"
+	print "S"
+if the input equals "S/2"
+print "A"
+if the input equals "XxY"
+print "P"
